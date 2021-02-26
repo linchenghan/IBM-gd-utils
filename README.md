@@ -54,4 +54,4 @@ SA_DLURL           SA打包文件accounts.zip下载url
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/artxia/IBM-gd-utils/master/install.sh && chmod +x install.sh  && ./install.sh
  ```
 
-结束
+结束了
